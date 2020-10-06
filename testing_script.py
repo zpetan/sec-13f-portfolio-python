@@ -1,4 +1,8 @@
-
+"""
+Author: Pepe Tan
+Date: 2020-10-06
+MIT License
+"""
 
 from Portfolio13FHR import Portfolio
 

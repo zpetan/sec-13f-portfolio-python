@@ -1,3 +1,9 @@
+"""
+Author: Pepe Tan
+Date: 2020-10-06
+MIT License
+"""
+
 import os
 import numpy as np
 import pandas as pd
@@ -548,16 +554,3 @@ class Portfolio:
             show(plot)  # Open in browser
         
         return
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    

@@ -1,3 +1,10 @@
+"""
+Author: Pepe Tan
+Date: 2020-10-06
+MIT License
+"""
+
+
 import pandas as pd
 from bs4 import BeautifulSoup
 from ticker_class import Ticker
