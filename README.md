@@ -3,4 +3,4 @@
 
 Class definitions:
 - Filing13F: Contains class methods for parsing XML files using BeautifulSoup package.
-- Portfolio: Contains all filings and stock portfolio informations. Contains class methods for plotting and analyzes. 
+- Portfolio: Contains all filings and stock portfolio information. Contains class methods for plotting and analysis.
